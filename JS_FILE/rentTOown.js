@@ -2,7 +2,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
     const OnnAllBikes = [{
             name: "Bajaj",
             Modal: "Avenger 220 Cruise",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Avenger-220-Cruise.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,499/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,999/Mth",
@@ -13,7 +13,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Avenger 220 Street",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Avenger-220-Street.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,499/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,499/Mth",
@@ -24,7 +24,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "CT100",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/CT100.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹2,299/Mth",
             MonthDur: "for 18 months",
             YearP: "₹2,799/Mth",
@@ -34,7 +34,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Pulsar 135 LS",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-135-LS.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹2,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹3,299/Mth",
@@ -45,7 +45,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Pulsar 150",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-150.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,699/Mth",
             MonthDur: "for 18 months",
             YearP: "₹3,799/Mth",
@@ -56,7 +56,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Pulsar 180",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-180.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹3,959/Mth",
             MonthDur: "for 18 months",
             YearP: "₹2,994/Mth",
@@ -67,7 +67,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Dominar 400",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Dominar-400.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹6,999/Mth",
@@ -80,7 +80,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Pulsar NS 160",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-NS-160.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹3,499/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,199/Mth",
@@ -91,7 +91,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Bajaj",
             Modal: "Pulsar NS 200",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-NS-200.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹2,959/Mth",
             MonthDur: "for 18 months",
             YearP: "₹3,999/Mth",
@@ -102,7 +102,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Activa",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Activa.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹1,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹2,999/Mth",
@@ -115,7 +115,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "CD110",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/CD110.jpg",
+            img: "../IMG_FILE/placeholderImage/white.avif",
             MonthP: "₹3,949/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,099/Mth",
@@ -125,7 +125,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Cliq",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Cliq.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹6,999/Mth",
@@ -138,7 +138,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Dio",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Dio.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,009/Mth",
             MonthDur: "for 18 months",
             YearP: "₹7,999/Mth",
@@ -151,7 +151,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Dream Neo",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Dream-Neo.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹2,989/Mth",
             MonthDur: "for 18 months",
             YearP: "₹4,779/Mth",
@@ -161,7 +161,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Hornet",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Hornet.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹5,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹8,999/Mth",
@@ -172,7 +172,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Livo",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Livo.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹1,009/Mth",
             MonthDur: "for 18 months",
             YearP: "₹3,965/Mth",
@@ -182,7 +182,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Honda",
             Modal: "Navi",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Navi.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹5,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,999/Mth",
@@ -192,7 +192,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "KTM",
             Modal: "Duke 250",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Duke-250.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹6,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹8,999/Mth",
@@ -204,7 +204,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Royal Enfield",
             Modal: "Classic 350",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Classic-350.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹8,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹9,999/Mth",
@@ -215,7 +215,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Royal Enfield",
             Modal: "Himalayan",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Himalayan.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹5,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,999/Mth",
@@ -226,7 +226,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Royal Enfield",
             Modal: "Thunderbird 350",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/Thunderbird-350.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,999/Mth",
             MonthDur: "for 18 months",
             YearP: "₹7,999/Mth",
@@ -237,7 +237,7 @@ if (localStorage.getItem("OnnAllBikes") == null) {
         {
             name: "Yamaha",
             Modal: "FZ v2",
-            img: "https://get.onn.app/wp-content/uploads/2020/05/FZ-v2.jpg",
+            img: "../IMG_FILE/placeholderImage/BIKE2.webp",
             MonthP: "₹4,229/Mth",
             MonthDur: "for 18 months",
             YearP: "₹5,333/Mth",
