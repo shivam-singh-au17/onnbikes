@@ -47,9 +47,9 @@ let imgNum = 2;
 
 function changeImgAndTagLine() {
   let arrOfImg = [
-    "url('https://www.onnbikes.com/img/Self-ride-bike-rentals-desktop@2x.jpg')",
-    "url('https://www.onnbikes.com/img/long-term-desktopbanner@2x.jpg')",
-    "url('https://www.onnbikes.com/img/R2o-desktopbanner.jpg')",
+    "url('../IMG_FILE/placeholderImage/one.jpg')",
+    "url('../IMG_FILE/placeholderImage/four.jpg')",
+    "url('../IMG_FILE/placeholderImage/three.jpg')",
   ];
   let arrOfHeadings = [
     `RENT TODAY, OWN TOMORROW`,
