@@ -255,7 +255,7 @@ function bikesobject() {
             manufacturer: "Royal Enfield",
             model: "350 Thunderbird",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Thunderbird-350.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Pulsar 180",
@@ -265,7 +265,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Pulsar",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-180.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Pulsar NS 160",
@@ -275,7 +275,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Pulsar",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-NS-160.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
 
         {
@@ -286,7 +286,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Pulsar",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-NS-200.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Pulsar 135 LS",
@@ -296,7 +296,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Pulsar",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-135-LS.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
 
         {
@@ -307,7 +307,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "CT 100",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/CT100.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Dominar 400 ABS",
@@ -317,7 +317,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Dominar 400 ABS",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Dominar-400.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "KTM Duke 250",
@@ -327,7 +327,7 @@ function bikesobject() {
             manufacturer: "KTM",
             model: "Duke 250",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Duke-250.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Yamaha FZ",
@@ -337,7 +337,7 @@ function bikesobject() {
             manufacturer: "Yamaha",
             model: "FZ",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/FZ-v2.jpg'",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda Navi",
@@ -347,7 +347,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Navi",
             type: "Scooter",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Navi.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda DREAM NEO",
@@ -357,7 +357,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Dream Neo",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Dream-Neo.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda Hornet",
@@ -367,7 +367,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Hornet",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Hornet.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda Activa",
@@ -377,7 +377,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Activa",
             type: "Scooter",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Activa.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda Dio",
@@ -387,7 +387,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Dio",
             type: "Scooter",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Dio.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Honda Livo",
@@ -397,7 +397,7 @@ function bikesobject() {
             manufacturer: "Honda",
             model: "Livo",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Livo.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Pulsar 150",
@@ -407,7 +407,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Pulsar",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Pulsar-150.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Avenger 220 Cruise",
@@ -417,7 +417,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Avenger 220 Cruise",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Avenger-220-Cruise.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Bajaj Avenger 220 Street",
@@ -427,7 +427,7 @@ function bikesobject() {
             manufacturer: "Bajaj",
             model: "Avenger 220 Street",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Avenger-220-Street.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
         {
             name: "Royal Enfield 350 Classic",
@@ -437,7 +437,7 @@ function bikesobject() {
             manufacturer: "Royal Enfield",
             model: "350 Classic",
             type: "Motorcycle",
-            imgLink: "https://get.onn.app/wp-content/uploads/2020/05/Classic-350.jpg",
+            imgLink: "../IMG_FILE/placeholderImage/white.avif",
         },
     ];
     localStorage.setItem("bikes", JSON.stringify(arrOfBikes));
